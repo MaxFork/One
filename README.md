@@ -6,7 +6,7 @@
     </a>
 </p>
 
-# The One Programming Language 💚 💙 🧡 🤍 💖 🖤
+# The `One` Programming Language 💚 💙 🧡 🤍 💖 🖤
 
 [Onelang.org](https://onelang.org) |
 [Help wanted](https://github.com/One-Language/One/issues/new)
@@ -48,12 +48,12 @@
 
 </div>
 
-Welcome to <a href="https://onelang.org">One</a>!</br>
+Welcome to <a href="https://onelang.org">`One`</a>!</br>
 It is an open source, self-hosted, bootstrapping <b>system programming language</b> which makes it easy to
 build reliable and efficient software.
 It is being developed by <a href="https://github.com/BaseMax">Max</a>, <a href="https://github.com/jbampton">John</a> and other open-source contributors.
 
-### Compiler for the One Language will be released in a few months
+### Compiler for the `One` Language will be released in a few months
 
 <!--
     WRITE PROJECT MOTIVATION HERE
@@ -178,7 +178,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-<hr>
+---
 
 **Another draft:**
 
@@ -267,7 +267,7 @@ int customName:
 end
 ```
 
-<hr>
+---
 
 ### Old GUI Development: (Web, Software)
 
